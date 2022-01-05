@@ -184,7 +184,7 @@ masukkan kode pada .bat =
 PowerShell.exe -Command "& '%~dpn0.ps1'"
 PAUSE
 
-![bat1](https://user-images.githubusercontent.com/60251611/73134872-3c45a980-406e-11ea-8750-5eff8f512973.png)
+![bat1](https://user-images.githubusercontent.com/60251611/73134872-3c45a980-406e-11ea-8750-5eff8f512973.pn
 
 
 
