@@ -174,7 +174,7 @@ megetahui detail pengguna servername terakhir digunakan
 
 mengetahui servername yang akan digunakan dan terakhir booting
 
-![langPow4](https://user-images.githubusercontent.com/60251611/73134861-29cb7000-406e-11ea-9da8-82f00b3af938.png)
+![langPow4](https://user-images.githubusercontent.com/60251611/73134861-29cb7000-406e-11ea-9da8-82f00b3af93.png)
 
 menggunakan batch untuk mengaktifkan powershell
 
@@ -198,4 +198,4 @@ menamai file java menggunakan .bat
 
 disini nama file java saya akan otamatis bernama FileBaru_Count(jumlah nama file.java +1)
 
-![renfile](https://user-images.githubusercontent.com/60251611/73611487-d7adc000-4614-11ea-9465-ecbcb62920a8.png)
+![renfile](https://user-images.githubusercontent.com/60251611/73611487-d7adc000-4614-11ea-9465-ecbcb62920a.png)
